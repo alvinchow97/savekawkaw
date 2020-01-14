@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Debit</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="credit_text">Credit</string>
+    <string name="url_server">https://savekawkaw.000webhostapp.com/API/</string>
+    <string name="url_credit_retrieve">https://savekawkaw.000webhostapp.com/API/ccredit/search.php</string>
+    <string name="url_Credit_create">ccredit/create.php</string>
+    <string name="url_Debit_create">Debit/create.php</string>
+
+
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="guest">Guest</string>
+    <string name="nickname">Nickname</string>
+    <string name="birthday">Birthday</string>
+    <string name="occupation">Occupation</string>
+    <string name="telNo">Tel No: </string>
+    <string name="enter">Enter</string>
+    <string name="start_your_journey">Start Your Journey</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+    <string name="profile_pic">Profile Picture</string>
+    <string name="check_in">Check In</string>
+    <string name="Debit">Debit</string>
+    <string name="Credit">Credit</string>
+    <string name="balance">Balance</string>
+    <string name="border">Border</string>
+    <string name="profile">My Profile</string>
+    <string name="my_name">Name</string>
+    <string name="password">Password</string>
+    <string name="update">Update</string>
+    <string name="back">Back</string>
+
+    <string name="url_AppUser_readOne">AppUser/search.php</string>
+    <string name="url_AppUser_update">AppUser/update.php</string>
+    <string name="error_value_required">Invalid input</string>
+    <string name="tel">Contact</string>
+    <string name="url_ccredit_read">ccredit/read.php</string>
+
+    <string name="topicTitile">Topic Title:</string>
+    <string name="topicContent">Topic Content:</string>
+    <string name="topicTitleHint">Enter your topic title</string>
+    <string name="topicContentHint">Enter Your Description</string>
+    <string name="createMomentTitle">Create Moment Post</string>
+    <string name="post">Post</string>
+    <string name="image">Upload your receipt or draft of planning</string>
+    <string name="url_topic_create">topic/create.php</string>
+    <string name="url_topic_read">topic/read.php</string>
+    <string name="upload">Upload</string>
+    <string name="sync">sync</string>
+</resources>
